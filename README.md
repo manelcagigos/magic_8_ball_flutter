@@ -1,5 +1,3 @@
-# magic_8_ball_flutter
-
 # Magic 8 Ball 🎱[^1]
 
 ## Our Goal
