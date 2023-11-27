@@ -16,4 +16,4 @@ We’re going to make a magical 8 ball app, it will give you the answers to all 
 
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
 
-[^1]: This was extracted from the github repository of the course, [Todoey github repository from londonappbrewery](https://github.com/londonappbrewery/todoey-flutter).
+[^1]: This was extracted from the github repository of the course, [Magic 8 ball github repository from londonappbrewery](https://github.com/londonappbrewery/magic-8-ball-flutter).
